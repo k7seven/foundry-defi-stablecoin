@@ -15,3 +15,8 @@
 
 ## Fuzz test
 1. What are our invariants/properties
+
+## Extra
+1. Some proper oracle use
+2. Write more tests
+3. Smart Contract Audit Preparation
